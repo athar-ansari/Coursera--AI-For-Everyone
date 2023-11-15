@@ -3,7 +3,7 @@
 <img src="https://github.com/athar-ansari/Coursera--AI-For-Everyone/assets/118714083/0ea765f9-df41-47d4-bd52-9e7ee8a6087f#gh-light-mode-only" width="100%"><br>
 
 ## 📋 About
-<br>Unleash the power of AI in your everyday life with the "AI For Everyone" course. This non-technical course demystifies AI, helping you understand its impact on society and how to navigate its technological changes. Spot opportunities to apply AI in your organization and learn to build machine learning and data science projects. No prior experience needed, just your curiosity!<br>
+Unleash the power of AI in your everyday life with the "AI For Everyone" course. This non-technical course demystifies AI, helping you understand its impact on society and how to navigate its technological changes. Spot opportunities to apply AI in your organization and learn to build machine learning and data science projects. No prior experience needed, just your curiosity!<br>
 
 ## 🔗 To see the Course
 [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone/)<br>
